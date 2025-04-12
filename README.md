@@ -12,4 +12,6 @@
 week -2 Medium
 ![Screenshot (115)](https://github.com/user-attachments/assets/77135ddc-303e-4bc3-996d-8a6b19e87af9)
 ![Screenshot (117)](https://github.com/user-attachments/assets/2a841d55-f781-4ef6-9e64-3c53ff7ce7fc)
-
+medium Q-2)
+![Screenshot (118)](https://github.com/user-attachments/assets/450de7cc-04a0-4b52-b6e5-3bc28ce8fcb5)
+![Screenshot (120)](https://github.com/user-attachments/assets/f346bb05-3fb3-4836-83ee-c3edb72b30de)
