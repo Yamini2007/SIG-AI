@@ -9,4 +9,7 @@
 ![Screenshot (100)](https://github.com/user-attachments/assets/be445192-15d1-433b-af2b-65cd1fb6ef0d)
 ![Screenshot (102)](https://github.com/user-attachments/assets/aaa6fde5-4e28-4b00-af24-f23bc1d60aa9)
 ![Screenshot (101)](https://github.com/user-attachments/assets/b1edbc7b-c300-4c61-b381-312b04d02015)
+week -2 Medium
+![Screenshot (115)](https://github.com/user-attachments/assets/77135ddc-303e-4bc3-996d-8a6b19e87af9)
+![Screenshot (117)](https://github.com/user-attachments/assets/2a841d55-f781-4ef6-9e64-3c53ff7ce7fc)
 
