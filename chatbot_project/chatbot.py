@@ -1,7 +1,7 @@
 import requests
 import os
 
-# You can paste your key here directly or set it as an environment variable
+
 GROQ_API_KEY = "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"
 
 def get_response(user_input):
