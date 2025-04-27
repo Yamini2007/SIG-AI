@@ -24,3 +24,50 @@ medium Q-4)
 Medium Q-6)
 ![Screenshot (125)](https://github.com/user-attachments/assets/ba783073-8369-4082-8a87-a1c132327403)
 ![Screenshot (126)](https://github.com/user-attachments/assets/6a517e39-4664-4602-af62-13d6ca429da2)
+
+
+CHAT BOT --README
+Technologies Used
+Python: Programming language for backend logic and handling API requests.
+
+Streamlit: A Python library used for building the web interface for the chatbot.
+
+Groq API: A language model that powers the chatbot's ability to generate responses.
+
+Requests: Python library for making HTTP requests to the Groq API.
+
+GitHub: Version control and hosting the code for the project.
+
+Features:
+Groq API Integration: Uses Groq’s language model to generate responses based on user input.
+
+Streamlit Deployment: Deployed the chatbot as a web app for easy access via any browser.
+
+Interactive UI: Simple, easy-to-use interface that accepts user queries and provides responses.
+
+How the Chatbot Works:
+User Input: Users enter a query in the input box.
+
+Groq API Call: The input is sent to the Groq API for processing.
+
+Response: The chatbot displays the generated response in the UI.
+
+Deployement--Streamlit Deployement
+users can access my chatbot online at:https://sig-ai-ii-tasks-4nthu97cvqq73gmr3rk8gz.streamlit.app/
+
+Project Description
+This project is a text-based chatbot built using the Groq API for language model inference and Streamlit for deployment. The chatbot answers general queries and provides a user-friendly interface for interaction.
+
+The chatbot is deployed as a web app, which can be accessed through any browser.
+coomands  i used:
+1)git init-to initialize a git repository
+2)git add .-add files to staging
+3)git commit -m "Initial commit"-for commit changes
+4)git push -u origin main -for pushing code to github
+5)cd "C:\path\to\project"-for navigating into project folder
+6)python -m venv venv-for creating virtual environment(venv)
+7).\venv\Scripts\activate-for activating virtual environment
+8)cd path\to\folder --allows us to move to directory(folder)
+9)dir -to verify files in current directory
+
+i created chatbot_project as folder in that i ctreated app.py,chaatbot.py,Procfile,requirements.txt,venv
