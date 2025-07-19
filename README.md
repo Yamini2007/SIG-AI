@@ -67,7 +67,7 @@ This project uses a Convolutional Neural Network (CNN) to classify handwritten d
 [handwritten_digit_recognition.ipynb](./handwritten_digit_recognition.ipynb)
 
 ### 🖼️ Sample Output:
-![Prediction](my_digit.png) <!-- if you uploaded a test image -->
+![Prediction](my_digit.png) 
 
 
 
