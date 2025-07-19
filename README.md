@@ -68,3 +68,27 @@ coomands  i used:
 9)dir -to verify files in current directory
 
 i created chatbot_project as folder in that i ctreated app.py,chaatbot.py,Procfile,requirements.txt,venv
+
+
+---
+
+## 📌 Project: Handwritten Digit Recognition using CNN
+
+This project uses a Convolutional Neural Network (CNN) to classify handwritten digits (0–9) from the MNIST dataset.
+
+### 🔧 Tools Used:
+- Google Colab
+- TensorFlow / Keras
+- MNIST Dataset (28x28 grayscale digits)
+
+### ✅ What it Does:
+- Trains a CNN on MNIST
+- Achieves ~99% test accuracy
+- Lets you test your own image (after preprocessing)
+
+### 📁 Notebook:
+[handwritten_digit_recognition.ipynb](./handwritten_digit_recognition.ipynb)
+
+### 🖼️ Sample Output:
+![Prediction](my_digit.png) <!-- if you uploaded a test image -->
+
